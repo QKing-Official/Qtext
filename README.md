@@ -1,2 +1,2 @@
 # Qtext
-A lightweigt text editor!
+A lightweight text editor!
